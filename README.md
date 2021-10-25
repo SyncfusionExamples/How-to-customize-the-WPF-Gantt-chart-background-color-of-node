@@ -129,6 +129,8 @@ This can be achieved by changing the GanttNode template using the style as shown
     }
 ```
 
+KB article - [How to customize the background color of the task node in each row of Gantt WPF](https://www.syncfusion.com/kb/12065/how-to-customize-the-background-color-of-the-task-node-in-each-row-of-gantt-in-the-wpf)
+
 ## See also
 
 [How to add custom tooltip to Gantt](https://help.syncfusion.com/wpf/gantt/customtooltip)
